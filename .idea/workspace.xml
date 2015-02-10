@@ -27,8 +27,8 @@
       <file leaf-file-name="support.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/support.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.36589405" vertical-offset="0" max-vertical-offset="604">
-              <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+            <state vertical-scroll-proportion="0.6192053" vertical-offset="0" max-vertical-offset="604">
+              <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -122,6 +122,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsctype_sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsctype_sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -133,8 +147,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="G:\Shankar\Project\Maidsafe\Firefox\addon-sdk-1.17\jsctype_sample" />
       <recent name="G:\Shankar\Project\Maidsafe\Firefox\addon-sdk-1.17\jsctype_sample\data" />
+      <recent name="G:\Shankar\Project\Maidsafe\Firefox\addon-sdk-1.17\jsctype_sample" />
       <recent name="G:\Shankar\Project\Maidsafe\Firefox\addon-sdk-1.17\jsctype_sample\lib" />
     </key>
   </component>
@@ -309,8 +323,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/support.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36589405" vertical-offset="0" max-vertical-offset="604">
-          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        <state vertical-scroll-proportion="0.6192053" vertical-offset="0" max-vertical-offset="604">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
           <folding />
         </state>
       </provider>
