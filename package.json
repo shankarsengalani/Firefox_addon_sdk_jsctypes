@@ -1,0 +1,10 @@
+{
+  "name": "jsctype_sample",
+  "title": "jsctype_sample",
+  "id": "jid1-sO37dExEV8dhDg",
+  "unpack": true,
+  "description": "a basic add-on",
+  "author": "",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
